@@ -1,4 +1,5 @@
 # FactorialAndCombination
 Calculator for Combination and Factorial (Not Finished...)
 
-![Factorial](https://user-images.githubusercontent.com/59180837/189485226-5ee04909-2b5d-4708-b4cc-5d3072e26770.JPG)
+
+![Main](https://user-images.githubusercontent.com/59180837/189485330-d13c37a6-3b6a-4d97-9f14-0a2a88d435bf.JPG)
