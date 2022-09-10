@@ -1,0 +1,6 @@
+About factorial.html
+1- Temizle button is not working now... when its gonna work every click
+will delete a last-child from the list
+
+About combination.html
+1- Any functions doesn't work now. But im working on it...
