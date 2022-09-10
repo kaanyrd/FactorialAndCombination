@@ -1,6 +1,6 @@
-About factorial.html
-1- Temizle button is not working now... when its gonna work every click
-will delete a last-child from the list
+App.js
+factorial side working with full of functions. Every buttons and all features working...
 
-About combination.html
-1- Any functions doesn't work now. But im working on it...
+
+Combination.js
+1- Any functions doesn't work now. Just we can see the screen desing. But im working on it...
